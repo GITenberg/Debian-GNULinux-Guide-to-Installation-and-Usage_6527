@@ -1,0 +1,24 @@
+_repo: Debian-GNULinux-Guide-to-Installation-and-Usage_6527
+creator:
+  authors:
+  - agent_name: Othman, Ossama
+    gutenberg_agent_id: '2080'
+    url: http://www.gutenberg.org/2009/agents/2080
+  - agent_name: Goerzen, John
+    gutenberg_agent_id: '2079'
+    url: http://www.gutenberg.org/2009/agents/2079
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6527'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'QA'
+- !lcsh 'Linux'
+- !lcsh 'Operating systems (Computers)'
+title: 'Debian GNU/Linux : Guide to Installation and Usage'
+url: http://www.gutenberg.org/ebooks/6527
